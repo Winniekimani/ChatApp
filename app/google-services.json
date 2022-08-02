@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48144498293",
+    "project_id": "chatapp-61087",
+    "storage_bucket": "chatapp-61087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48144498293:android:366a137bc764181697c23c",
+        "android_client_info": {
+          "package_name": "com.winnie.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48144498293-fmjptp9vs6ao0spmv689q4hjo1jd0ef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA603oEYBlgD_7QePlh0I6ehNULy3Ne6Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48144498293-fmjptp9vs6ao0spmv689q4hjo1jd0ef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

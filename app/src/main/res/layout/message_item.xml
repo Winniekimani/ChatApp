@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginTop="2dp"
+
+    android:layout_height="wrap_content">
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentEnd="true"
+       android:layout_marginStart="150dp"
+       android:orientation="vertical">
+
+       <TextView
+           android:id="@+id/message"
+           android:layout_width="wrap_content"
+           android:paddingStart="12dp"
+           android:paddingEnd="12dp"
+           android:paddingBottom="5dp"
+           android:paddingTop="5dp"
+           android:layout_height="wrap_content"
+           android:text="Alright"
+           android:background="@drawable/message_sent_bg"
+           android:textColor="@color/white"
+           android:textSize="18sp"/>
+
+   </LinearLayout>
+
+
+</RelativeLayout>
